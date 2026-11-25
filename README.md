@@ -35,7 +35,7 @@ Hoje, aplico essa bagagem profissional nos meus estudos e projetos em **C#, ASP.
 ### 📌 Principais Projetos
 * 🏥 **[Resoluções de exercícios do Beecrowd](https://github.com/AlexandreTavares03/ex_beecrowd-java):** Atividades acadêmicas para resolução de problemas variados usando soluções em JAVA.
 * 📚 **[Sistema de Gestão de Biblioteca](https://github.com/AlexandreTavares03/biblioteca_uni_bd):** Modelagem de banco de dados relacional (normalização até 3FN) e scripts T-SQL.
-* - 🗓️ **[Sistema de Agendamento de Mentorias](https://github.com/AlexandreTavares03/Sistema-Agendamento-Mentorias-Asp.Net):** Aplicação web em C# (ASP.NET Web Forms) integrada ao SQL Server para gestão e agendamento de mentorias.
+* 🗓️ **[Sistema de Agendamento de Mentorias](https://github.com/AlexandreTavares03/Sistema-Agendamento-Mentorias-Asp.Net):** Aplicação web em C# (ASP.NET Web Forms) integrada ao SQL Server para gestão e agendamento de mentorias.
 
 ---
 
